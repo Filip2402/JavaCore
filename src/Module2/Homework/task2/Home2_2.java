@@ -1,4 +1,4 @@
-package Module2.Homework.homework2_2;
+package Module2.Homework.task2;
 
 /**
  * Created by PC on 13.11.2016.

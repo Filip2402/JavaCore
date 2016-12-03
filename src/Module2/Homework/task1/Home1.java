@@ -1,4 +1,4 @@
-package Module2.Homework.homework2_1;
+package Module2.Homework.task1;
 
 import java.util.Arrays;
 import java.util.Random;
@@ -6,7 +6,7 @@ import java.util.Random;
 /**
  * Created by PC on 01.11.2016.
  */
-public class Home2_1 {
+public class Home1 {
     public static void main(String[] args) {
         int size = 10;
         Random r = new Random(System.currentTimeMillis());
@@ -64,7 +64,7 @@ public class Home2_1 {
     public static int maxPositive(int array[]){
         int max = array[0];
         for(int i=1; i < 10; i++){
-            if ((array[i]>max)&(array[i]>0)){
+            if ((array[i]>max)&&(array[i]>0)){
                 max = array[i];
             }
         }
@@ -88,7 +88,7 @@ public class Home2_1 {
     public  static int secondLagets(int array[]){
         int max = array[0];
         int secMax = array[1];
-        if ((secMax > max)){
+        if (secMax > max){
             int a = secMax;
             secMax = max;
             max = a;
