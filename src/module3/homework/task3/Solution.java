@@ -15,7 +15,7 @@ public class Solution {
         Student student1 =new Student("Protsenko",courses);
         CollegeStudent collegeStudent = new CollegeStudent("Anna","Samorodova",7);
         CollegeStudent collegeStudent1 = new CollegeStudent("Samorodova",courses);
-        CollegeStudent collegeStudent2 = new CollegeStudent("KPI",12, (long) 0000);
+        CollegeStudent collegeStudent2 = new CollegeStudent("NTYY KPI",12, (long) 0000);
         SpecialStudent specialStudent = new SpecialStudent("Dima","Timoshenko",2);
         SpecialStudent specialStudent1 = new SpecialStudent("Timoshenko",courses);
         SpecialStudent specialStudent2 = new SpecialStudent(12345678);
