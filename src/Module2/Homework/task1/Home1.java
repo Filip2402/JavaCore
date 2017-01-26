@@ -1,4 +1,4 @@
-package Module2.Homework.task1;
+package module2.homework.task1;
 
 import java.util.Arrays;
 import java.util.Random;

@@ -1,7 +1,4 @@
-package Module4.offline;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
+package module4.offline;
 
 /**
  * Created by PC on 21.11.2016.

@@ -1,4 +1,4 @@
-package Module2;
+package module2;
 
 /**
  * Created by PC on 01.11.2016.

@@ -1,4 +1,4 @@
-package Module5.offline.singlton;
+package module5.offline.singlton;
 
 /**
  * Created by PC on 28.11.2016.

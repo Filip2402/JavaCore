@@ -1,4 +1,4 @@
-package Module3.offlile;
+package module3.offlile;
 
 /**
  * Created by PC on 14.11.2016.
